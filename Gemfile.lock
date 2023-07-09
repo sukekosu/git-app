@@ -5,7 +5,7 @@ GEM
       actionpack (= 6.0.6.1)
       nio4r (~> 2.0)
       websocket-driver (>= 0.6.1)
-    actionmailbox (6.0.6.1)Gemfile.lock
+    actionmailbox (6.0.6.1)
       actionpack (= 6.0.6.1)
       activejob (= 6.0.6.1)
       activerecord (= 6.0.6.1)
@@ -124,15 +124,12 @@ GEM
     nio4r (2.5.9)
     nokogiri (1.13.10-x86_64-darwin)
       racc (~> 1.4)
-
+    orm_adapter (0.5.0)
     pry (0.14.2)
       coderay (~> 1.1)
       method_source (~> 1.0)
     pry-rails (0.3.9)
       pry (>= 0.10.4)
-
-    orm_adapter (0.5.0)
-
     public_suffix (5.0.1)
     puma (3.12.6)
     racc (1.7.1)
